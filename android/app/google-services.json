@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677403166913",
+    "project_id": "study-b114d",
+    "storage_bucket": "study-b114d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677403166913:android:c66ec4c3dd598c9bd62c40",
+        "android_client_info": {
+          "package_name": "com.dilmurod.study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677403166913-rutq0chafg1g5p2phko6spicn705346o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-610gIFD8nyzGvUAVj2dtrF4XQ3BWBb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677403166913-rutq0chafg1g5p2phko6spicn705346o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
